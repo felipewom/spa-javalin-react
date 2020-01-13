@@ -90,5 +90,5 @@ yarn start
 ```
 
 
-Maintainer [Felipe Moura](mailto:<felipe.moura@softplan.com.br>)
+Maintainer [Felipe Moura](mailto:<felipewom@gmail.com>)
 You're welcome.

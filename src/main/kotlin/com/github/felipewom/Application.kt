@@ -1,9 +1,9 @@
 @file:JvmName("Application")
 
-package br.com.softplan
+package com.github.felipewom
 
-import br.com.softplan.controller.UserController
-import br.com.softplan.controller.VersionController
+import com.github.felipewom.controller.UserController
+import com.github.felipewom.controller.VersionController
 import io.javalin.Javalin
 import org.eclipse.jetty.http.HttpStatus
 
